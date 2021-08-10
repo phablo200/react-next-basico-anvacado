@@ -1,0 +1,9 @@
+Criar conta na mongodb. ok
+Criar conta na cloudinary.
+Criar conta no heroku.
+
+MONGODB:
+user: db_studies
+pass: ...2
+porta: 27017
+URL Connect to Compass: mongodb+srv://db_studies:Phablo1992@cluster0.7wnmi.mongodb.net/studies?retryWrites=true&w=majority

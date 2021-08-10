@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_menu_menus",
+  "info": {
+    "name": "menu",
+    "icon": "align-right"
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "type": "string",
+      "required": true
+    },
+    "menu_link": {
+      "type": "component",
+      "repeatable": true,
+      "component": "menu.menu-link",
+      "required": true
+    }
+  }
+}

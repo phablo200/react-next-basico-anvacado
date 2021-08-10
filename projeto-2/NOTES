@@ -1,0 +1,24 @@
+Criar conta na mongodb. ok
+Criar conta na cloudinary.
+Criar conta no heroku.
+
+MONGODB:
+user: db_studies
+pass: ...2
+porta: 27017
+host: cluster0.7wnmi.mongodb.net
+URL Connect to Compass: mongodb+srv://db_studies:Phablo1992@cluster0.7wnmi.mongodb.net/studies?retryWrites=true&w=majority
+
+
+Instalar gerenciar de versões node NVM
+descer a verão para a 14 para poder concluir o curso.
+
+
+Usuário strapi: phablovilasboas25@gmail.com
+Senha strapi: .2
+
+Usuário MOngoDB Atlas: phablovilasboas25@gmail.com
+Senha MongoDB Atlas: 2
+
+Usuário cloudinary: phablovilasboas25@gmail.com
+Senha cloudinary: #2
