@@ -21,4 +21,9 @@ describe('<MenuLink />', () => {
     renderTheme(<NavLink links={mock} />);
     //expect(screen.getAllByText(/link/i)).toHaveLength(0);
   });
+
+  it('shoud match snapshot', () => {
+    const { container } = renderTheme(<NavLink links={mock} />);
+    expect(container).toMatchSnapshot();
+  });
 });
